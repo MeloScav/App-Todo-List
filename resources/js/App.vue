@@ -17,6 +17,9 @@
       <li class="nav-item dropdown">
         <router-link to="/create" class="nav-link">Create task</router-link>
       </li>
+      <li class="nav-item">
+          <router-link to="/connection" class="nav-link">Connection</router-link>
+      </li>
     </ul>
   </div>
 </nav>
